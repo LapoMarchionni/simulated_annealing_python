@@ -1,2 +1,7 @@
-# simulated_annealing_python
-Simulated Annealing Algorithm implemented in Python 3
+# SIMULATED ANNEALING ALGORITHM #
+
+### Games implemented  ###
+
+* N-Queens
+* Magic Square [in developement]
+* Salesman Traveler
